@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+}
+
+nav a {
+    margin: 10px 20px;
+    font-size: 25px;
+    text-decoration: none;
+    color: var(--color-blue);
+    font-family: monospace;
+    
+}

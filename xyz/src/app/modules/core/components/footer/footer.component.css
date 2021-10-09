@@ -1,0 +1,10 @@
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.footer span {
+    display: inline-block;
+    margin: 10px 15px;
+    vertical-align: middle;
+}
