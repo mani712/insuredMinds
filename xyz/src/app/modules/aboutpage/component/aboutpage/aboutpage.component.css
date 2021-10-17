@@ -1,0 +1,43 @@
+.services-product {
+  display: flex;
+}
+
+.services-product > div {
+  flex: 1;
+}
+
+.leaders {
+  display: flex;
+}
+
+.leaders > div > img {
+  height: 100%;
+  width: 100%;
+}
+
+.leaders > div {
+  flex: 1;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.header-left {
+  border-left: 3px solid var(--color-green);
+  margin-left: 30px;
+  padding-left: 5px;
+}
+
+.header-left-m-0 {
+  border-left: 3px solid var(--color-green);
+
+  padding-left: 5px;
+}
+
+.carosel {
+  height: 10%;
+  width: 100%;
+}

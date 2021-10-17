@@ -9,3 +9,23 @@
     margin: 0px;
     padding: 0px;
 }
+
+.m-xy {
+    padding: 10px 30px;
+}
+
+.m-y {
+    padding: 10px 0px;
+}
+
+.color-blue {
+    color: var(--color-blue);
+}
+
+.color-yellow {
+    color: var(--color-yellow);
+}
+
+.color-green {
+    color: var(--color-green);
+}
